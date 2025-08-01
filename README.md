@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Paula Agyeman | Software Engineer & AI/ML Fellow
 As a first-gen student at the University of North Texas, my interest in software development and information technology is rooted in the transformative impact they have on people's lives. Inspired by those who work in these fields, I'm drawn to their analytical and problem-solving nature, contributing to groundbreaking technologies that shape our world. <br><br>Through projects, I am mastering C++ and delving into languages like HTML/CSS, Python, and SQL. My pursuit is fueled by a profound desire to leverage technology's transformative power and create resolutions. <br>
 <br>Through all this, all glory be to God, my source. I strive to honor Him with each & every opportunity I receive. <br>"So whether you eat or drink, or whatever you do, do it all for the glory of God" - 1 Corinthians 10:31
 
